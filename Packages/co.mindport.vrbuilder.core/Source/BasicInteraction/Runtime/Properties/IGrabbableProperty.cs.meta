@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: a46b8494aea9d4d4181cfb72f6a7b23d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301706
+  packageName: VR Builder Pro - Toolkit for VR creation
+  packageVersion: 5.0.1
+  assetPath: Packages/co.mindport.vrbuilder.core/Source/BasicInteraction/Runtime/Properties/IGrabbableProperty.cs
+  uploadId: 718768

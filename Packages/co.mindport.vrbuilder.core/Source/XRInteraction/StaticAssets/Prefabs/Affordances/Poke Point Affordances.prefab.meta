@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e082957c591e21345bada46a4854d2b1
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301706
+  packageName: VR Builder Pro - Toolkit for VR creation
+  packageVersion: 5.0.1
+  assetPath: Packages/co.mindport.vrbuilder.core/Source/XRInteraction/StaticAssets/Prefabs/Affordances/Poke
+    Point Affordances.prefab
+  uploadId: 718768

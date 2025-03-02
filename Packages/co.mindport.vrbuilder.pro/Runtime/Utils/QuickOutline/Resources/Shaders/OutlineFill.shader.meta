@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: e9ce3bca79e4cd94e9aa4bf6bbba2e40
+timeCreated: 1520575782
+licenseType: Store
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301706
+  packageName: VR Builder Pro - Toolkit for VR creation
+  packageVersion: 5.0.1
+  assetPath: Packages/co.mindport.vrbuilder.pro/Runtime/Utils/QuickOutline/Resources/Shaders/OutlineFill.shader
+  uploadId: 718768

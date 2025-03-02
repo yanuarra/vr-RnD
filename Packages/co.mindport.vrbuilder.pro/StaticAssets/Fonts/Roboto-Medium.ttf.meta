@@ -1,0 +1,28 @@
+fileFormatVersion: 2
+guid: d764bb91957e72d48b03e316a2786610
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Roboto
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301706
+  packageName: VR Builder Pro - Toolkit for VR creation
+  packageVersion: 5.0.1
+  assetPath: Packages/co.mindport.vrbuilder.pro/StaticAssets/Fonts/Roboto-Medium.ttf
+  uploadId: 718768

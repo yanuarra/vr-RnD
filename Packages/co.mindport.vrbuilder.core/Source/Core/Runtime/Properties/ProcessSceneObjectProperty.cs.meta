@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: aba49dab16f06464e97d798ed1c70472
+timeCreated: 1527679381
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301706
+  packageName: VR Builder Pro - Toolkit for VR creation
+  packageVersion: 5.0.1
+  assetPath: Packages/co.mindport.vrbuilder.core/Source/Core/Runtime/Properties/ProcessSceneObjectProperty.cs
+  uploadId: 718768

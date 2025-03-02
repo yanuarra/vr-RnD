@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 603c4ca76c12b4c4396e11be38e41d99
+timeCreated: 1520576276
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301706
+  packageName: VR Builder Pro - Toolkit for VR creation
+  packageVersion: 5.0.1
+  assetPath: Packages/co.mindport.vrbuilder.pro/Runtime/Utils/QuickOutline/Resources/Materials/OutlineMask.mat
+  uploadId: 718768

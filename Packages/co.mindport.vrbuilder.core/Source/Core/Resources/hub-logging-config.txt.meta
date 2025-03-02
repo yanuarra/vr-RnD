@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: efd3eab128b90a84e91759b6b0db1664
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301706
+  packageName: VR Builder Pro - Toolkit for VR creation
+  packageVersion: 5.0.1
+  assetPath: Packages/co.mindport.vrbuilder.core/Source/Core/Resources/hub-logging-config.txt
+  uploadId: 718768

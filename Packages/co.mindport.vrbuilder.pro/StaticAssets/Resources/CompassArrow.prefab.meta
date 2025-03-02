@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 52647859c6acc524cb847879cc73beef
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301706
+  packageName: VR Builder Pro - Toolkit for VR creation
+  packageVersion: 5.0.1
+  assetPath: Packages/co.mindport.vrbuilder.pro/StaticAssets/Resources/CompassArrow.prefab
+  uploadId: 718768

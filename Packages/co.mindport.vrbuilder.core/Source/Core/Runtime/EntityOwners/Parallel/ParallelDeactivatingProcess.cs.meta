@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: fbca46ab8202491f848d6afdfc3f8e7c
+timeCreated: 1584961200
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301706
+  packageName: VR Builder Pro - Toolkit for VR creation
+  packageVersion: 5.0.1
+  assetPath: Packages/co.mindport.vrbuilder.core/Source/Core/Runtime/EntityOwners/Parallel/ParallelDeactivatingProcess.cs
+  uploadId: 718768

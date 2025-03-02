@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 59179417350544159c1c74bb33d802e6
+timeCreated: 1564491726
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301706
+  packageName: VR Builder Pro - Toolkit for VR creation
+  packageVersion: 5.0.1
+  assetPath: Packages/co.mindport.vrbuilder.core/Source/Core/Editor/UI/BezierCurveHelper.cs
+  uploadId: 718768

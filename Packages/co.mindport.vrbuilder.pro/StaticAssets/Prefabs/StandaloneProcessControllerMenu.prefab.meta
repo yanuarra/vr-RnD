@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: a2ddd107dff7af14a9a9e2e6a841e59d
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301706
+  packageName: VR Builder Pro - Toolkit for VR creation
+  packageVersion: 5.0.1
+  assetPath: Packages/co.mindport.vrbuilder.pro/StaticAssets/Prefabs/StandaloneProcessControllerMenu.prefab
+  uploadId: 718768

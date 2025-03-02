@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2d011830f70439a418523cf2d2118b25
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301706
+  packageName: VR Builder Pro - Toolkit for VR creation
+  packageVersion: 5.0.1
+  assetPath: Packages/co.mindport.vrbuilder.core/Demo/StaticAssets/Materials/LightSaber.mat
+  uploadId: 718768

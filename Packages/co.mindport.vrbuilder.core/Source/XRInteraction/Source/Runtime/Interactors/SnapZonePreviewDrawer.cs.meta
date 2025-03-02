@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 88ea78c93b844cc1b7f98cca70e8679c
+timeCreated: 1598435525
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301706
+  packageName: VR Builder Pro - Toolkit for VR creation
+  packageVersion: 5.0.1
+  assetPath: Packages/co.mindport.vrbuilder.core/Source/XRInteraction/Source/Runtime/Interactors/SnapZonePreviewDrawer.cs
+  uploadId: 718768

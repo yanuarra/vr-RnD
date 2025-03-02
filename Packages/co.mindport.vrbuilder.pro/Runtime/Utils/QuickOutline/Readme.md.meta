@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: cf9559d88f95b164298cfc5ca1882594
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301706
+  packageName: VR Builder Pro - Toolkit for VR creation
+  packageVersion: 5.0.1
+  assetPath: Packages/co.mindport.vrbuilder.pro/Runtime/Utils/QuickOutline/Readme.md
+  uploadId: 718768

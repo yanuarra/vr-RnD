@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 9431a1e3ca15bc8439491544b838feec
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301706
+  packageName: VR Builder Pro - Toolkit for VR creation
+  packageVersion: 5.0.1
+  assetPath: Packages/co.mindport.vrbuilder.pro/Demo/StaticAssets/Resources/SnapZones/Prefabs/Cube_Highlight.prefab
+  uploadId: 718768

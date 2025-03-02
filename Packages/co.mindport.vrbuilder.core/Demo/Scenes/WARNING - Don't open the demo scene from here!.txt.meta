@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c99ebb886cccf2d45951d5af0ad5072c
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301706
+  packageName: VR Builder Pro - Toolkit for VR creation
+  packageVersion: 5.0.1
+  assetPath: Packages/co.mindport.vrbuilder.core/Demo/Scenes/WARNING - Don't open
+    the demo scene from here!.txt
+  uploadId: 718768

@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 56729e828cf84680b351b3213b04a481
+timeCreated: 1548757815
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301706
+  packageName: VR Builder Pro - Toolkit for VR creation
+  packageVersion: 5.0.1
+  assetPath: Packages/co.mindport.vrbuilder.core/Source/Core/Runtime/Attributes/FoldableAttribute.cs
+  uploadId: 718768

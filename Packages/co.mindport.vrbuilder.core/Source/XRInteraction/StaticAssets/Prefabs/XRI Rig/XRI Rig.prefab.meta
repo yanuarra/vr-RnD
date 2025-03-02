@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 550ca5f5c17e3564ab1d38eaad81efce
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301706
+  packageName: VR Builder Pro - Toolkit for VR creation
+  packageVersion: 5.0.1
+  assetPath: Packages/co.mindport.vrbuilder.core/Source/XRInteraction/StaticAssets/Prefabs/XRI
+    Rig/XRI Rig.prefab
+  uploadId: 718768

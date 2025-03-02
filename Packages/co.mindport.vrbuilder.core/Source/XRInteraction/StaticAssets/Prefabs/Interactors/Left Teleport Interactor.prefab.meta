@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a2e0d2602b7b30b45af3f8322f3177e3
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301706
+  packageName: VR Builder Pro - Toolkit for VR creation
+  packageVersion: 5.0.1
+  assetPath: Packages/co.mindport.vrbuilder.core/Source/XRInteraction/StaticAssets/Prefabs/Interactors/Left
+    Teleport Interactor.prefab
+  uploadId: 718768

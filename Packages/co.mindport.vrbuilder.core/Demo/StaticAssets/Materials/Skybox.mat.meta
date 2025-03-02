@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a88dc6688ae9dae4f8d6be1bcb48c78e
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301706
+  packageName: VR Builder Pro - Toolkit for VR creation
+  packageVersion: 5.0.1
+  assetPath: Packages/co.mindport.vrbuilder.core/Demo/StaticAssets/Materials/Skybox.mat
+  uploadId: 718768

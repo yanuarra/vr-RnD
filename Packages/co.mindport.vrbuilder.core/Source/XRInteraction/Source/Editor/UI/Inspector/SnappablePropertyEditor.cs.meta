@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 23b77e8f50aa46b2a61f4c360290b3ce
+timeCreated: 1594817316
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301706
+  packageName: VR Builder Pro - Toolkit for VR creation
+  packageVersion: 5.0.1
+  assetPath: Packages/co.mindport.vrbuilder.core/Source/XRInteraction/Source/Editor/UI/Inspector/SnappablePropertyEditor.cs
+  uploadId: 718768

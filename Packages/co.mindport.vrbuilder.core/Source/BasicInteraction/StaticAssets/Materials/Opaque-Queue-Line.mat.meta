@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6c97eba138bb6c64697ea7ca63a27ad7
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301706
+  packageName: VR Builder Pro - Toolkit for VR creation
+  packageVersion: 5.0.1
+  assetPath: Packages/co.mindport.vrbuilder.core/Source/BasicInteraction/StaticAssets/Materials/Opaque-Queue-Line.mat
+  uploadId: 718768

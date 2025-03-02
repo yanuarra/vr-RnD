@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 1b48825c450049749aea6b05fe55f937
+timeCreated: 1520575773
+licenseType: Store
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301706
+  packageName: VR Builder Pro - Toolkit for VR creation
+  packageVersion: 5.0.1
+  assetPath: Packages/co.mindport.vrbuilder.pro/Runtime/Utils/QuickOutline/Resources/Shaders/OutlineMask.shader
+  uploadId: 718768

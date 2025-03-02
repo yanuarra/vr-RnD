@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: ff6d568bad1c530429ca236da6d2c268
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301706
+  packageName: VR Builder Pro - Toolkit for VR creation
+  packageVersion: 5.0.1
+  assetPath: Packages/co.mindport.vrbuilder.pro/Editor/UI/MenuItems/Conditions/CompareNumbersMenuItem.cs
+  uploadId: 718768

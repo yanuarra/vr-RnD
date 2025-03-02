@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 9b0ae868f336aa948a126738eb468c44
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301706
+  packageName: VR Builder Pro - Toolkit for VR creation
+  packageVersion: 5.0.1
+  assetPath: Packages/co.mindport.vrbuilder.pro/StaticAssets/Prefabs/Score Feedback/Spawnable
+    Objects/Negative Feeback 3D AudioSource.prefab
+  uploadId: 718768

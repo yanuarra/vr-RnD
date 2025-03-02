@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 37756d621290425e81f61bc51a4daba6
+timeCreated: 1614696502
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301706
+  packageName: VR Builder Pro - Toolkit for VR creation
+  packageVersion: 5.0.1
+  assetPath: Packages/co.mindport.vrbuilder.core/Source/BasicInteraction/Runtime/Conditions/TeleportCondition.cs
+  uploadId: 718768

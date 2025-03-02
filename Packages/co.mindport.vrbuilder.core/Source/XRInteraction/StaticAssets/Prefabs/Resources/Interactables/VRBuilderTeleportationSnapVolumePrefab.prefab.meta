@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ea02a43060fe9f54e9bea37ca5c22431
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301706
+  packageName: VR Builder Pro - Toolkit for VR creation
+  packageVersion: 5.0.1
+  assetPath: Packages/co.mindport.vrbuilder.core/Source/XRInteraction/StaticAssets/Prefabs/Resources/Interactables/VRBuilderTeleportationSnapVolumePrefab.prefab
+  uploadId: 718768

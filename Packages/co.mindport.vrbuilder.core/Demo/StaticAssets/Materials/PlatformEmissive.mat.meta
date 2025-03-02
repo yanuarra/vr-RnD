@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 20cfa7770468940429489de589ef1302
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301706
+  packageName: VR Builder Pro - Toolkit for VR creation
+  packageVersion: 5.0.1
+  assetPath: Packages/co.mindport.vrbuilder.core/Demo/StaticAssets/Materials/PlatformEmissive.mat
+  uploadId: 718768

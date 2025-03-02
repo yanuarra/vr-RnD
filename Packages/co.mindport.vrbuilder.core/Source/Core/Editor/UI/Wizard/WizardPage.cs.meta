@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 60a3e4d672c24210aa126a580218516a
+timeCreated: 1597053067
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301706
+  packageName: VR Builder Pro - Toolkit for VR creation
+  packageVersion: 5.0.1
+  assetPath: Packages/co.mindport.vrbuilder.core/Source/Core/Editor/UI/Wizard/WizardPage.cs
+  uploadId: 718768

@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 563618c8d5a74b198fdde5524a4b903b
+timeCreated: 1593593272
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301706
+  packageName: VR Builder Pro - Toolkit for VR creation
+  packageVersion: 5.0.1
+  assetPath: Packages/co.mindport.vrbuilder.core/Source/Core/Runtime/RestrictiveEnvironment/StepLockHandlingStrategy.cs
+  uploadId: 718768

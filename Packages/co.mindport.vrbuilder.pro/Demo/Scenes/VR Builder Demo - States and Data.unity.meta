@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8b486bef72dbe6e45833019e49760bde
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301706
+  packageName: VR Builder Pro - Toolkit for VR creation
+  packageVersion: 5.0.1
+  assetPath: Packages/co.mindport.vrbuilder.pro/Demo/Scenes/VR Builder Demo - States
+    and Data.unity
+  uploadId: 718768

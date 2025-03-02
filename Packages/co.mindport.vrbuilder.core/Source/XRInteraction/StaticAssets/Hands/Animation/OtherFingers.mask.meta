@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: bfbe5d1bc9766384e85e3f035ad1ecc5
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 31900000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301706
+  packageName: VR Builder Pro - Toolkit for VR creation
+  packageVersion: 5.0.1
+  assetPath: Packages/co.mindport.vrbuilder.core/Source/XRInteraction/StaticAssets/Hands/Animation/OtherFingers.mask
+  uploadId: 718768

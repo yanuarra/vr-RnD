@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 062bb2c4648cd9e49bbe4358e538a375
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301706
+  packageName: VR Builder Pro - Toolkit for VR creation
+  packageVersion: 5.0.1
+  assetPath: Packages/co.mindport.vrbuilder.pro/Demo/StaticAssets/Materials/ButtonRed.mat
+  uploadId: 718768

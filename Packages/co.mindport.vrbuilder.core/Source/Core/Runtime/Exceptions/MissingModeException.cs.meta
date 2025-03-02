@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 523f3ae4a94d431bbe657b9b4aba9352
+timeCreated: 1553099595
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301706
+  packageName: VR Builder Pro - Toolkit for VR creation
+  packageVersion: 5.0.1
+  assetPath: Packages/co.mindport.vrbuilder.core/Source/Core/Runtime/Exceptions/MissingModeException.cs
+  uploadId: 718768

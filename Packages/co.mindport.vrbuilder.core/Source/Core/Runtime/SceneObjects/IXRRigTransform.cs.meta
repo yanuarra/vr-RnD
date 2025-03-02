@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 72c4f8ee79373914ca9e8401ffaa1f3e
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301706
+  packageName: VR Builder Pro - Toolkit for VR creation
+  packageVersion: 5.0.1
+  assetPath: Packages/co.mindport.vrbuilder.core/Source/Core/Runtime/SceneObjects/IXRRigTransform.cs
+  uploadId: 718768

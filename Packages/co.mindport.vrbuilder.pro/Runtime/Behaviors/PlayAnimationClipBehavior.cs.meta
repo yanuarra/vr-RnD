@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 6f752c4da9ea4144e8ce6e4bea2b2c66
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301706
+  packageName: VR Builder Pro - Toolkit for VR creation
+  packageVersion: 5.0.1
+  assetPath: Packages/co.mindport.vrbuilder.pro/Runtime/Behaviors/PlayAnimationClipBehavior.cs
+  uploadId: 718768

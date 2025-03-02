@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ce16660ab96c2254c80ad553871c9693
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301706
+  packageName: VR Builder Pro - Toolkit for VR creation
+  packageVersion: 5.0.1
+  assetPath: Packages/co.mindport.vrbuilder.core/Source/BasicInteraction/Resources/INTERACTION_RIG_LOADER.prefab
+  uploadId: 718768

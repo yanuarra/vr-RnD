@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7ba6681c10ada3945a246d395beadbbc
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301706
+  packageName: VR Builder Pro - Toolkit for VR creation
+  packageVersion: 5.0.1
+  assetPath: Packages/co.mindport.vrbuilder.pro/StaticAssets/Prefabs/Data Displays/Boolean
+    Display.prefab
+  uploadId: 718768

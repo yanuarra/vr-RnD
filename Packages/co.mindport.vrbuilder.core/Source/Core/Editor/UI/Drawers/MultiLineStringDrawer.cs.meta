@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 122c4a73f5494794996720a8f1c81652
+timeCreated: 1714393726
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301706
+  packageName: VR Builder Pro - Toolkit for VR creation
+  packageVersion: 5.0.1
+  assetPath: Packages/co.mindport.vrbuilder.core/Source/Core/Editor/UI/Drawers/MultiLineStringDrawer.cs
+  uploadId: 718768

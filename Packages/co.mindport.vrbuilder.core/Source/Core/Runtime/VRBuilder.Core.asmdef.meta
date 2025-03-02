@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: c8561f9de838ac04d8feeda695bc572d
+AssemblyDefinitionImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301706
+  packageName: VR Builder Pro - Toolkit for VR creation
+  packageVersion: 5.0.1
+  assetPath: Packages/co.mindport.vrbuilder.core/Source/Core/Runtime/VRBuilder.Core.asmdef
+  uploadId: 718768

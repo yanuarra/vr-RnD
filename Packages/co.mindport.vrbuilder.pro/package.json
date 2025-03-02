@@ -1,0 +1,21 @@
+{
+  "displayName": "VR Builder Pro",
+  "name": "co.mindport.vrbuilder.pro",
+  "version": "5.0.1",
+  "unity": "6000.0",
+  "description": "VR Builder pro features.",
+  "keywords": [
+    "builder",
+    "vr",
+    "core",
+    "mindport"
+  ],
+  "author": {
+    "name": "MindPort",
+    "email": "contact@mindport.co",
+    "url" : "https://mindport.co/"
+  },
+  "dependencies": {
+    "co.mindport.vrbuilder.core": "5.0.0"
+  }
+}

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 5efae94d4b2087b4dac0f1d210369580
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301706
+  packageName: VR Builder Pro - Toolkit for VR creation
+  packageVersion: 5.0.1
+  assetPath: Packages/co.mindport.vrbuilder.core/Source/XRInteraction/StaticAssets/Hands/LeftHand.prefab
+  uploadId: 718768

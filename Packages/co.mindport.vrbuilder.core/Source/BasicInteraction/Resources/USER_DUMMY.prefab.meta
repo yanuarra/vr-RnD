@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 37c82b08dd6b47541bda003607ae9073
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301706
+  packageName: VR Builder Pro - Toolkit for VR creation
+  packageVersion: 5.0.1
+  assetPath: Packages/co.mindport.vrbuilder.core/Source/BasicInteraction/Resources/USER_DUMMY.prefab
+  uploadId: 718768

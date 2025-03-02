@@ -1,0 +1,30 @@
+{
+    "name": "VRBuilder.Pro.Demo",
+    "rootNamespace": "",
+    "references": [
+        "VRBuilder.Core",
+        "VRBuilder.XRInteraction",
+        "Unity.XR.Interaction.Toolkit",
+        "VRBuilder.Pro",
+        "VRBuilder.BasicInteraction"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [
+        "VR_BUILDER",
+        "VR_BUILDER_XR_INTERACTION",
+        "XR_INTERACTION_TOOLKIT"
+    ],
+    "versionDefines": [
+        {
+            "name": "com.unity.xr.interaction.toolkit",
+            "expression": "2.0.0",
+            "define": "XR_INTERACTION_TOOLKIT"
+        }
+    ],
+    "noEngineReferences": false
+}

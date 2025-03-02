@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 9248ce3953d90e641b2253c2676aee48
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301706
+  packageName: VR Builder Pro - Toolkit for VR creation
+  packageVersion: 5.0.1
+  assetPath: Packages/co.mindport.vrbuilder.core/Source/BasicInteraction/StaticAssets/Shaders/Unlit-Line-Opaque.shader
+  uploadId: 718768

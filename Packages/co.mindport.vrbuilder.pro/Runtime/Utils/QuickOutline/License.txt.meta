@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: fbb41cf0cd50f004999f91f17c22f99c
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301706
+  packageName: VR Builder Pro - Toolkit for VR creation
+  packageVersion: 5.0.1
+  assetPath: Packages/co.mindport.vrbuilder.pro/Runtime/Utils/QuickOutline/License.txt
+  uploadId: 718768

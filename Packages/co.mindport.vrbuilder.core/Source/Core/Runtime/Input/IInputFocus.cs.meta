@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: f2f30850a153414cba475f1ae298c941
+timeCreated: 1618918882
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301706
+  packageName: VR Builder Pro - Toolkit for VR creation
+  packageVersion: 5.0.1
+  assetPath: Packages/co.mindport.vrbuilder.core/Source/Core/Runtime/Input/IInputFocus.cs
+  uploadId: 718768

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 116d52696ed42634e94b9ca45786cb7f
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301706
+  packageName: VR Builder Pro - Toolkit for VR creation
+  packageVersion: 5.0.1
+  assetPath: Packages/co.mindport.vrbuilder.pro/Demo/StaticAssets/Prefabs/Car.prefab
+  uploadId: 718768

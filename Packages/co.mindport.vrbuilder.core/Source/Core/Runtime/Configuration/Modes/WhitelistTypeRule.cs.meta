@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 5c821842f09e4000bc88ac61f43e4957
+timeCreated: 1554889166
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301706
+  packageName: VR Builder Pro - Toolkit for VR creation
+  packageVersion: 5.0.1
+  assetPath: Packages/co.mindport.vrbuilder.core/Source/Core/Runtime/Configuration/Modes/WhitelistTypeRule.cs
+  uploadId: 718768

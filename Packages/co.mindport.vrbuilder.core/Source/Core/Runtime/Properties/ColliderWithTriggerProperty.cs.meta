@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 94f0bf7ce367d3942a1f56ec8dd56e41
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {fileID: 2800000, guid: f131347375d03214588a261e8d223ad7, type: 3}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301706
+  packageName: VR Builder Pro - Toolkit for VR creation
+  packageVersion: 5.0.1
+  assetPath: Packages/co.mindport.vrbuilder.core/Source/Core/Runtime/Properties/ColliderWithTriggerProperty.cs
+  uploadId: 718768

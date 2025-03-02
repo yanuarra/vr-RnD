@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ededf7be42d06924b995fc63bb5b1d36
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301706
+  packageName: VR Builder Pro - Toolkit for VR creation
+  packageVersion: 5.0.1
+  assetPath: Packages/co.mindport.vrbuilder.pro/StaticAssets/Prefabs/Score Feedback/Incremental
+    Score Negative Feedback Provider.prefab
+  uploadId: 718768

@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 67a4007720da467ba27bdae2e7e8c23a
+timeCreated: 1619608893
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301706
+  packageName: VR Builder Pro - Toolkit for VR creation
+  packageVersion: 5.0.1
+  assetPath: Packages/co.mindport.vrbuilder.core/Source/Core/Runtime/Highlighting/IExcludeFromHighlightMesh.cs
+  uploadId: 718768

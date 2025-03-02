@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 43798e48bac48fb40a8f662065824ac1
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 4890085278179872738
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301706
+  packageName: VR Builder Pro - Toolkit for VR creation
+  packageVersion: 5.0.1
+  assetPath: Packages/co.mindport.vrbuilder.core/Demo/StaticAssets/VRB_CoreDemo_Lighting.lighting
+  uploadId: 718768

@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: ea2ef2e9973c41ba95a803851252c0da
+timeCreated: 1726591921
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301706
+  packageName: VR Builder Pro - Toolkit for VR creation
+  packageVersion: 5.0.1
+  assetPath: Packages/co.mindport.vrbuilder.core/Source/Core/Runtime/TextToSpeech/Configuration/ITextToSpeechConfiguration.cs
+  uploadId: 718768

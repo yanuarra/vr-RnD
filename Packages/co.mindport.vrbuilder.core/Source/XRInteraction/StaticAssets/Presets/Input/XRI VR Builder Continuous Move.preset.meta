@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 52c5458eafc0b22418d85a28e3a3112c
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2655988077585873504
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301706
+  packageName: VR Builder Pro - Toolkit for VR creation
+  packageVersion: 5.0.1
+  assetPath: Packages/co.mindport.vrbuilder.core/Source/XRInteraction/StaticAssets/Presets/Input/XRI
+    VR Builder Continuous Move.preset
+  uploadId: 718768

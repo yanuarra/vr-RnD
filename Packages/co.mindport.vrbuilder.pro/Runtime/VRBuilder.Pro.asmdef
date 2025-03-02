@@ -1,0 +1,20 @@
+{
+    "name": "VRBuilder.Pro",
+    "rootNamespace": "",
+    "references": [
+        "VRBuilder.Core",
+        "Unity.InputSystem",
+        "Unity.TextMeshPro"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [
+        "VR_BUILDER"
+    ],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

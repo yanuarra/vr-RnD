@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: b03d2c8a756043a0ad0cdab3af0ade45
+timeCreated: 1588771696
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301706
+  packageName: VR Builder Pro - Toolkit for VR creation
+  packageVersion: 5.0.1
+  assetPath: Packages/co.mindport.vrbuilder.core/Source/Core/Editor/AssemblyUnloadDetector.cs
+  uploadId: 718768

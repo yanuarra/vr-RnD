@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 8a027d7df86bd6e40a8243252725df74
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301706
+  packageName: VR Builder Pro - Toolkit for VR creation
+  packageVersion: 5.0.1
+  assetPath: Packages/co.mindport.vrbuilder.pro/Demo/StaticAssets/Prefabs/PressureTool.prefab
+  uploadId: 718768

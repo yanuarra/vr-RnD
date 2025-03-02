@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 50a919c2ecf4b844ea3a4509acaf4a99
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301706
+  packageName: VR Builder Pro - Toolkit for VR creation
+  packageVersion: 5.0.1
+  assetPath: Packages/co.mindport.vrbuilder.pro/Demo/StaticAssets/Materials/Tables.mat
+  uploadId: 718768

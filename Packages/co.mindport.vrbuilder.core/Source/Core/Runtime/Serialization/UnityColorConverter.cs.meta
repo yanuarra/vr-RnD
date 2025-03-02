@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 9ba14e03a2fa4745b19dff028cecf2e1
+timeCreated: 1557826279
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301706
+  packageName: VR Builder Pro - Toolkit for VR creation
+  packageVersion: 5.0.1
+  assetPath: Packages/co.mindport.vrbuilder.core/Source/Core/Runtime/Serialization/UnityColorConverter.cs
+  uploadId: 718768

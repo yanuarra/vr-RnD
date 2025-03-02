@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 008c0e647580297489cb55dcfddb5499
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301706
+  packageName: VR Builder Pro - Toolkit for VR creation
+  packageVersion: 5.0.1
+  assetPath: Packages/co.mindport.vrbuilder.pro/StaticAssets/Resources/CircleArrow.prefab
+  uploadId: 718768

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 89167b1d4b8745e4cba1e382be4fef07
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2655988077585873504
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301706
+  packageName: VR Builder Pro - Toolkit for VR creation
+  packageVersion: 5.0.1
+  assetPath: Packages/co.mindport.vrbuilder.core/Source/XRInteraction/StaticAssets/Presets/Input/XRI
+    VR Builder Right Controller Input Action Manager 1.preset
+  uploadId: 718768

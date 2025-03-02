@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8963c70806d0e3441802c7bbc8162b5c
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301706
+  packageName: VR Builder Pro - Toolkit for VR creation
+  packageVersion: 5.0.1
+  assetPath: Packages/co.mindport.vrbuilder.core/Source/XRInteraction/StaticAssets/Prefabs/Teleport/Blocking
+    Teleport Reticle.prefab
+  uploadId: 718768

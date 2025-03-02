@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0c9c836faf8b16c4896fef2e890b91db
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301706
+  packageName: VR Builder Pro - Toolkit for VR creation
+  packageVersion: 5.0.1
+  assetPath: Packages/co.mindport.vrbuilder.core/Source/XRInteraction/StaticAssets/Prefabs/Teleport/Directional
+    Teleport Reticle.prefab
+  uploadId: 718768

@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 5d8d4399e5ed4949b404d88798cd0461
+timeCreated: 1541605483
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301706
+  packageName: VR Builder Pro - Toolkit for VR creation
+  packageVersion: 5.0.1
+  assetPath: Packages/co.mindport.vrbuilder.core/Source/Core/Editor/UndoRedo/CallbackCommand.cs
+  uploadId: 718768

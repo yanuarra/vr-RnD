@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 403f8ba1dc82bb842b2dd5de318ed2ab
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301706
+  packageName: VR Builder Pro - Toolkit for VR creation
+  packageVersion: 5.0.1
+  assetPath: Packages/co.mindport.vrbuilder.core/Source/XRInteraction/Source/Runtime/XRI/ClimbTeleportDestinationIndicator.cs
+  uploadId: 718768

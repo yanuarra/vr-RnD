@@ -1,0 +1,22 @@
+{
+    "name": "VRBuilder.Pro.Editor",
+    "rootNamespace": "",
+    "references": [
+        "VRBuilder.Core",
+        "VRBuilder.Pro",
+        "VRBuilder.Core.Editor"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [
+        "VR_BUILDER"
+    ],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

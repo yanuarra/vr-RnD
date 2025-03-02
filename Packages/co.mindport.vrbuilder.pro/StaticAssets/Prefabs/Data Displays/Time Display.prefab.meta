@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4b55ac1536a201446a32581d26e37bb6
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301706
+  packageName: VR Builder Pro - Toolkit for VR creation
+  packageVersion: 5.0.1
+  assetPath: Packages/co.mindport.vrbuilder.pro/StaticAssets/Prefabs/Data Displays/Time
+    Display.prefab
+  uploadId: 718768

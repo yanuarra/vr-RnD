@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 310657bfa0aefc64fa1077ff4907442c
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301706
+  packageName: VR Builder Pro - Toolkit for VR creation
+  packageVersion: 5.0.1
+  assetPath: Packages/co.mindport.vrbuilder.pro/Demo/StaticAssets/Resources/SnapZones/Prefabs/PressureGauge_Highlight.prefab
+  uploadId: 718768

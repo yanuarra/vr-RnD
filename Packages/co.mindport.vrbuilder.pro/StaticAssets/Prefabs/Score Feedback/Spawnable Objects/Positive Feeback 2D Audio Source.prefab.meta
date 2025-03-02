@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8d28fbb14301bc64ba73e59d7ce333fa
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301706
+  packageName: VR Builder Pro - Toolkit for VR creation
+  packageVersion: 5.0.1
+  assetPath: Packages/co.mindport.vrbuilder.pro/StaticAssets/Prefabs/Score Feedback/Spawnable
+    Objects/Positive Feeback 2D Audio Source.prefab
+  uploadId: 718768

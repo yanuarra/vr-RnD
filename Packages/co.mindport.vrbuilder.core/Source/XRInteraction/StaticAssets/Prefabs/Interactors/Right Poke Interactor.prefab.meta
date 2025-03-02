@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b237d3b0ac3fe474a80320440feee9ca
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301706
+  packageName: VR Builder Pro - Toolkit for VR creation
+  packageVersion: 5.0.1
+  assetPath: Packages/co.mindport.vrbuilder.core/Source/XRInteraction/StaticAssets/Prefabs/Interactors/Right
+    Poke Interactor.prefab
+  uploadId: 718768

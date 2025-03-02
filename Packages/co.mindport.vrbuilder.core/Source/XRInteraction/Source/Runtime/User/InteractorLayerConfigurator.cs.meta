@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: eb84184823a056249bfba5107e766ec3
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {fileID: 2800000, guid: f131347375d03214588a261e8d223ad7, type: 3}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301706
+  packageName: VR Builder Pro - Toolkit for VR creation
+  packageVersion: 5.0.1
+  assetPath: Packages/co.mindport.vrbuilder.core/Source/XRInteraction/Source/Runtime/User/InteractorLayerConfigurator.cs
+  uploadId: 718768

@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 42e0ad3aa2ea15547b421cdc051b1120
+timeCreated: 1520576285
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301706
+  packageName: VR Builder Pro - Toolkit for VR creation
+  packageVersion: 5.0.1
+  assetPath: Packages/co.mindport.vrbuilder.pro/Runtime/Utils/QuickOutline/Resources/Materials/OutlineFill.mat
+  uploadId: 718768

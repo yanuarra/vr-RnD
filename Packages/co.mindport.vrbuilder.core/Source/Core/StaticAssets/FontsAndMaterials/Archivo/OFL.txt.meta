@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: c0fa277605997ff48a70c218646c9eac
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301706
+  packageName: VR Builder Pro - Toolkit for VR creation
+  packageVersion: 5.0.1
+  assetPath: Packages/co.mindport.vrbuilder.core/Source/Core/StaticAssets/FontsAndMaterials/Archivo/OFL.txt
+  uploadId: 718768

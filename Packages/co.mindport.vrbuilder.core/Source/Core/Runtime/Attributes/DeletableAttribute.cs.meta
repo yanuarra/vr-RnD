@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: f911533fcc3549c1bf30f98fef8af78b
+timeCreated: 1548941639
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301706
+  packageName: VR Builder Pro - Toolkit for VR creation
+  packageVersion: 5.0.1
+  assetPath: Packages/co.mindport.vrbuilder.core/Source/Core/Runtime/Attributes/DeletableAttribute.cs
+  uploadId: 718768

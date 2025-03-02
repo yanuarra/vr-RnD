@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 72dcd83e777d6c94fb8e6e19947daa90
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301706
+  packageName: VR Builder Pro - Toolkit for VR creation
+  packageVersion: 5.0.1
+  assetPath: Packages/co.mindport.vrbuilder.core/Source/XRInteraction/StaticAssets/Prefabs/Interactors/Gaze
+    Interactor.prefab
+  uploadId: 718768
